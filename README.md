@@ -1,2 +1,0 @@
-# sote
-sote browser
